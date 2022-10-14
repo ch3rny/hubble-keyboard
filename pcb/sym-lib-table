@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "hubble")(type "Legacy")(uri "${KIPRJMOD}/../lib/hubble.lib")(options "")(descr ""))
+)
